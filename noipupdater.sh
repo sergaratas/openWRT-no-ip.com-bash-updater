@@ -3,7 +3,7 @@
 # No-IP uses emails as passwords, so make sure that you encode the @ as %40
 USERNAME=username
 PASSWORD=password
-HOST=hostsite
+HOST='mynoipsite.no-ip.biz'
 LOGFILE=./noip.log
 STOREDIPFILE=./current_ip
 USERAGENT="Simple Bash No-IP Updater/0.4 for openWRT"
