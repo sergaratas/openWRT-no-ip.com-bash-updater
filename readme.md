@@ -2,6 +2,7 @@ README
 ======
 
 Bash script to update the ip of an account on no-ip.com
+Adaptation by thunderace to be used on a iConnect under openWRT
 
 How to use
 ----------
